@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: #fde68a;
+    color:#92400e;
+}
+.ngan {
+    background-color: #fed7aa;
+    text-align: center;
+    color:#92400e;
+}
+.kngan {
+    background-color: #fff7ed;
+    font-family: cursive ;
+}
+.kkngan {
+    background-color: #78350f;
+    text-align: center;
+    color:white;
+}
+h2 {
+    color:#92400e;
+}
+.li:hover {
+    background-color: #78350f;
+    color:yellow;
+}
+.lo {
+    background-color: white;
+}

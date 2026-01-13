@@ -1,0 +1,36 @@
+thead {
+    background-color:#bae6fd;
+}
+h1 {
+    background-color:#ccfbf1;
+    color:#0f766e;
+    text-align: center;
+}
+.kham:hover {
+    background-color:#E0F2FE;
+}
+nav {
+    text-align: center;
+    background-color: #E0F2FE;
+}
+a:hover {
+    background-color: #0284c7;
+    color:white;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+.nhaKhoa2026 {
+    color:white;
+    background-color:#0f766e;
+    text-align:center;
+}
+.toanTrang {
+    background-color:#f0f9ff;
+}
+table {
+  width: 100%;
+  margin: auto;
+  border-collapse: collapse;
+}

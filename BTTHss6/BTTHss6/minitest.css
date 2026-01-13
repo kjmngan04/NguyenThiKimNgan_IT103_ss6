@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+}
+h1 {
+    background-color: #ccfbf1;
+    color:#155e75
+}
+nav {
+    background-color: #e0f2fe;
+}
+a:hover {
+    background-color: #0284c7;
+    color:white;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color:#155e75;
+}
+h2 {
+    color:#155e75;
+}
+.gioiThieu {
+    background-color:white;
+}
+.dichVu {
+    background-color:white;
+}
+.link:hover {
+    color:#1e40af;
+    background-color:#dbeafe;
+}
+.nhaKhoa2026 {
+    color:white;
+    background-color:#0f766e;
+    text-align:center;
+}
+.toanTrang {
+    background-color:#f0f9ff;
+}
+.anh {
+    text-align: center;
+}
